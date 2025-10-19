@@ -1,0 +1,162 @@
+html {
+        background-color: #909497;
+}
+
+
+
+header {
+    text-align: center;
+    
+}
+
+
+
+.logos{
+    margin-top: -70px;
+}
+
+
+
+.links{
+    text-align: left;
+    margin-left: 20px;
+   margin-top: -1PX;
+
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+ 
+}
+
+
+
+
+.linkler{   
+    text-align: left;
+}
+
+
+
+
+
+.headpage {
+    border: 4px solid black;
+    
+    margin: auto;
+    padding: 10px;
+    text-align: center ;     
+    height: 130px;
+
+    border-radius: 50px;
+    }
+
+
+
+
+
+.gt{
+
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 1000px;
+    border-bottom-right-radius: 800px;
+ 
+}
+
+
+
+.gift1{
+    
+    border-top-right-radius: 800px;
+    border-bottom-left-radius: 800px;
+
+    margin-top: -400px;
+
+    height: 40%;
+    width: 45%;
+}
+
+
+
+
+.about1{
+    border: 3px solid rgb(0, 0, 0);
+   
+    font-size: 15px; 
+    
+
+ font-family: sans-serif;
+  
+}
+
+
+
+
+.carre{
+    width: auto;
+    height: 370px;
+    text-align: center;
+   
+}
+
+
+
+
+.liens{
+    
+    font-size: larger;
+    font-style:normal;
+    text-align: center;
+    
+}
+
+
+
+
+.fliens{
+    width: 600px;
+    height: auto;
+
+    margin: auto;
+
+    border-radius: 100px;
+    border:1px solid white;
+   
+}
+
+
+
+.amg{
+    height: 80px;
+    width: auto;
+}
+
+
+
+
+.far{
+    margin-left: 1000px;
+    margin-top: -25px;
+    height: 30px;
+    width: 180px;
+    
+}
+
+.copyright{
+    text-align: center;
+    font-size: 0.9em;
+
+}
+
+
+.F1{
+    height: 60%;
+    width: 50%;
+
+
+border-bottom-right-radius: 800px;
+border-top-left-radius: 800px;
+    
+    margin-left:50%;
+    margin-top: 50px;
+}

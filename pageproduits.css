@@ -1,0 +1,104 @@
+html{
+    background-color: #909497;
+}
+
+
+
+div img{
+margin-left: 580px;
+
+}
+
+div h1{
+    margin-top: -50px;
+}
+
+.produit1{
+   border: 2px solid rgb(0, 0, 0) ;
+   margin-right: 820px;
+   border-radius: 30px;
+  
+}
+
+.g63{
+    margin-left: 10px;
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.V8{
+    text-align: center;
+    font-size: x-large;
+   
+}
+
+.yazilar{
+    font-size: larger;
+    font-style: italic;
+    
+    
+}
+
+
+.bbh-sans-bartle-regular {
+  font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.prix{
+    margin-left: 90px;
+    font-family:
+}
+
+
+
+.produit2{
+   border: 2px solid rgb(0, 0, 0) ;
+    margin-left: 820px;
+   border-radius: 30px;
+   margin-top: -1000px;
+  
+
+   
+}
+
+.CLE{
+    margin-left: 10px;
+    width: 400px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+.V6{
+    text-align: center;
+    font-size: x-large;
+   
+}
+
+.yazilar2{
+    font-size: larger;
+    font-style: italic;
+    
+    
+}
+
+.prix2{
+    margin-left: 90px;
+    font-family:
+}
+
+.far{
+    margin-left: 1000px;
+    margin-top: -10px;
+    height: 30px;
+    width: 180px;
+    
+}
+
+.copyright{
+    text-align: center;
+    font-size: 0.9em;
+
+}

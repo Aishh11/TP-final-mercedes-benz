@@ -1,0 +1,52 @@
+html{
+    background-color:#909497;
+    text-decoration-color: black;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+  
+
+body style{
+    margin-left: 5cm;
+}
+
+header{
+    border:2px solid gray;
+    text-align: center;
+    text-size-adjust: large ;
+    color:black;
+}
+
+body p {
+    text-align: center;
+    color:black;
+}
+
+body h1{
+    text-align: center;
+    color: black;
+}
+
+.wikipedia {
+    text-align: center;
+    color:black;
+}
+.dates{
+    color:black;
+}
+body img{
+    width: 180px;
+    height: 130px;
+    margin-left: 530px;
+}
+
+
+.copyright{
+    text-align: center;
+    font-size: 0.9em;
+
+}

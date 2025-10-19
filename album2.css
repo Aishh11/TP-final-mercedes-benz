@@ -1,0 +1,49 @@
+html{
+    background-color: #909497;
+}
+
+
+
+html h2{
+    font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  
+}
+
+
+
+header{
+    background-color: brown;
+    border: 2px solid rgb(0, 0, 0) ;
+    border-radius: 8px;
+}
+
+
+
+.resimler img {
+    border-radius: 70px;
+}
+
+
+.video{
+   margin-left:120px
+}
+
+
+.video{
+    border-bottom-left-radius: 1cm;
+    border-bottom-right-radius: 1cm;
+}
+
+
+
+.analyse{
+    text-align: center;
+}
+
+.copyright{
+    text-align: center;
+    font-size: 0.9em;
+
+}
