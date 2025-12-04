@@ -1,0 +1,61 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #1e272e;
+  margin: 0;
+  padding: 2rem;
+  color: white;
+}
+
+.contact {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  background-color: #2f3640;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.contact label {
+  width: 100%;
+  font-weight: bold;
+  color: #f5f6fa;
+}
+
+.contact input,
+.contact textarea {
+  width: 100%;
+  padding: 0.9rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #353b48;
+  color: #f5f6fa;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.contact input:focus,
+.contact textarea:focus {
+  background-color: #40739e;
+  outline: none;
+}
+
+.contact button {
+  background-color: #00a8ff;
+  border: none;
+  border-radius: 8px;
+  padding: 1rem 2rem;
+  font-size: 1rem;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact button:hover {
+  background-color: #0097e6;
+}
+
+

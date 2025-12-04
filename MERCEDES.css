@@ -6,13 +6,14 @@ html {
 
 header {
     text-align: center;
-    
 }
 
 
 
 .logos{
-    margin-top: -70px;
+    margin-top:-40px
+  
+    
 }
 
 
@@ -40,16 +41,6 @@ header {
 
 
 
-.headpage {
-    border: 4px solid black;
-    
-    margin: auto;
-    padding: 10px;
-    text-align: center ;     
-    height: 130px;
-
-    border-radius: 50px;
-    }
 
 
 
