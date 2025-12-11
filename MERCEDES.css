@@ -1,6 +1,59 @@
 html {
         background-color: #909497;
+       
 }
+
+/*
+background-color: #909497;
+*/
+
+body{
+        background-image: url(https://images.hdqwalls.com/download/mercedes-amg-yellow-4k-jp-1920x1080.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+
+        min-height: calc(100vh - 15px);
+        border-radius: 10px;
+       
+
+}
+
+.opacity{
+   height: 700px;
+   width: 1000px;
+    opacity: 0.8; 
+  margin-top: 1.5cm;
+  margin-left: 12cm;
+  border-radius: 50px;
+
+}
+
+
+.logo2{
+   height: 70px;
+   width: 70px;
+
+  margin-bottom: 15.5cm;
+  margin-left: -25cm;
+  border-radius: 50px;
+
+  position: relative;
+
+}
+
+
+.liens2{
+    position: relative;
+    margin-top: -15cm;
+    margin-left: 15cm;
+ 
+}
+
+
+
+
+
 
 
 
